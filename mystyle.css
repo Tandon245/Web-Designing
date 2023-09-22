@@ -1,9 +1,13 @@
 h1{
     background-color: bisque;
+
 }
 button{
     background-attachment: fixed;
     background-color: brown;
     font-family: cursive;
     text-transform: inherit;
+}
+p{
+    line-height: 16px;
 }
