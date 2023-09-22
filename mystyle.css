@@ -9,6 +9,6 @@ button{
     }
 p{
     line-height: 16px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     
 }
